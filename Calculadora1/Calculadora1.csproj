@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Controlcalculadora.cs" />
+    <Compile Include="ControlCalculadoraBase.cs" />
+    <Compile Include="exercicios.cs" />
     <Compile Include="Modelcalculadora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
